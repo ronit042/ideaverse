@@ -1,0 +1,41 @@
+{
+    "content":[{
+        "title":"new idea in data science!!",
+        "content":"this is a new idea in data science",
+        "author":"Priyanshu",
+        "date":"12/12/2019",
+        "skills":["data science","ml"],
+        "likecount":500,
+        "comments":["nice","good"],
+        "bulb_count":123,
+        "comment":[{"auth_image:":"https://cdn.discordapp.com/avatars/741280410180386947/97ddc40395dfa5312cdbf02f4da07d7a.png?size=1024","author":"Priyanshu","content":"nice"},{"auth_image:":"https://cdn.discordapp.com/avatars/741280410180386947/97ddc40395dfa5312cdbf02f4da07d7a.png?size=1024","author":"Priyanshu","content":"nice"},{"auth_image:":"https://cdn.discordapp.com/avatars/741280410180386947/97ddc40395dfa5312cdbf02f4da07d7a.png?size=1024","author":"Priyanshu","content":"nice"}],
+        "contains_image":true,
+        "image":"https://www.iimtindia.net/Blog/wp-content/uploads/2023/04/data-science.jpg",
+        "auth_image":"https://cdn.discordapp.com/avatars/619474506381000706/e0060cfb201dc12a11725138b305529d.png?size=1024"
+    },{
+        "title":"new idea in machine learning",
+        "content":"this is a new idea in machine learning",
+        "author":"Techie tm",
+        "date":"12/12/2019",
+        "skills":["data science","ml"],
+        "likecount":3,
+        "bulb_count":500,
+        "contains_image":false,
+        "comment":[{"auth_image:":"https://cdn.discordapp.com/avatars/741280410180386947/97ddc40395dfa5312cdbf02f4da07d7a.png?size=1024","author":"Priyanshu","content":"nice"},{"auth_image:":"https://cdn.discordapp.com/avatars/741280410180386947/97ddc40395dfa5312cdbf02f4da07d7a.png?size=1024","author":"Priyanshu","content":"nice"},{"auth_image:":"https://cdn.discordapp.com/avatars/741280410180386947/97ddc40395dfa5312cdbf02f4da07d7a.png?size=1024","author":"Priyanshu","content":"nice"}],
+        "auth_image":"https://cdn.discordapp.com/avatars/741280410180386947/97ddc40395dfa5312cdbf02f4da07d7a.png?size=1024",
+        "image":"https://www.thermofisher.com/blog/connectedlab/wp-content/uploads/sites/14/2020/01/istock-962219860-2-scaled.jpg"
+    },{
+        "title":"new idea in data science!!",
+        "content":"this is a new idea in data science",
+        "author":"Official Bot",
+        "date":"12/12/2019",
+        "skills":["data science","ml"],
+        "likecount":1100,
+        "contains_image":true,
+        "comment":[{"auth_image:":"https://cdn.discordapp.com/avatars/741280410180386947/97ddc40395dfa5312cdbf02f4da07d7a.png?size=1024","author":"Priyanshu","content":"nice"},{"auth_image:":"https://cdn.discordapp.com/avatars/741280410180386947/97ddc40395dfa5312cdbf02f4da07d7a.png?size=1024","author":"Priyanshu","content":"nice"},{"auth_image:":"https://cdn.discordapp.com/avatars/741280410180386947/97ddc40395dfa5312cdbf02f4da07d7a.png?size=1024","author":"Priyanshu","content":"nice"}],
+        "bulb_count":1300,
+        "image":"https://www.iimtindia.net/Blog/wp-content/uploads/2023/04/data-science.jpg",
+        "auth_image":"https://cdn.discordapp.com/avatars/408785106942164992/731e901db9feef1ccf5bbfe6a4ee87db.png?size=1024"
+    }
+    ]
+}

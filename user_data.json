@@ -1,0 +1,32 @@
+{
+    "name":"Priyanshu Tiwari",
+    "profile_pic":null,
+    "cover_pic":null,
+    "email":"tpriyanshu775@gmail.com",
+    "isVerified":true,
+    "isOnline":false,
+    "isPremium":false,
+    "creation_date":1691445794,
+    "rated":0,
+    "mode":"dark",
+    "isBlocked":false,
+    "about":"my name is priyanshu and i read in kiit institute of science and technology, currently i am third year grad in btech cse and i love to make apps.",
+    "username":"Tech Priyanshu",
+    "interests":[
+        "music",
+        "movies",
+        "sports",
+        "games",
+        "books",
+        "tech",
+        "science"
+    ],
+    "achievements":["High Scorer","Attention Ganer","Most Liked","Hot Content"],
+    "skills_level":{
+        "sports":0.5,
+        "music":0.8,
+        "coding":0.45,
+        "gaming":0.6,
+        "business":0.3
+    }
+}
